@@ -1,0 +1,20 @@
+1  ls
+2  pwd
+3  cd Documents
+4  ls -l
+5  mkdir project
+6  cd project
+7  touch main.py
+8  python3 main.py
+9  ls
+10  cd ..
+11  mkdir test
+12  ls -a
+13  pwd
+14  cat notes.txt
+15  grep "hello" notes.txt
+16  cd Downloads
+17  ls
+18  mkdir backup
+19  python3 script.py
+20  ls
