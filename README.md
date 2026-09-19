@@ -11,7 +11,7 @@ How to Run:
 2.Make sure Python 3 is installed.
 3.Open a terminal in the project folder.
 4.Run the following command:
-python3 history_analyzer.py sample.txt (for macOS users)
+python3 history_analyzer.py history.txt (for macOS users)
 
 Input:
 The program reads commands from history.txt.
